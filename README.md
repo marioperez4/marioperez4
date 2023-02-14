@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marioperez4
-- 👀 I’m interested in data analysis, geoprocess 
+- 👀 I’m interested in data analysis, remote sensing, web mapping...
 - 🌱 I’m currently learning SQL, Python, JS & Angular.
 - 💞️ I’m looking to collaborate on geo proyects
 - 📫 How to reach me https://www.linkedin.com/in/marioperezmartinez/
