@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @marioperez4
-- 👀 I’m interested in data analysis, remote sensing, web mapping...
-- 🌱 I’m currently learning SQL, Python, JS & Angular.
-- 💞️ I’m looking to collaborate on geo proyects
-- 📫 How to reach me https://www.linkedin.com/in/marioperezmartinez/
+# Hi, I'm Mario! 👋
 
-<!---
-marioperez4/marioperez4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Agricultural Engineer | AgTech | Data & AI**
+
+I'm an Agricultural Engineer passionate about connecting **agriculture, technology and innovation** to solve real-world challenges.
+
+My work combines agricultural engineering, business development and technology, with a focus on **precision agriculture, geospatial analysis, data analytics, automation and artificial intelligence**.
+
+- 🚀 **Currently working on:** AgTech solutions, agricultural robotics, telemetry and digital transformation.
+- 💻 **Tech stack:** Python, SQL, GIS, data analysis and automation tools.
+- 🌍 **Interested in:** AI applications, remote sensing, geospatial technologies and software development.
+- 🤝 **Open to collaborating on:** AgTech, GIS, data-driven solutions and innovative technology projects.
+- 🌐 **Website:** [marioperezagro.com](https://marioperezagro.com)
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/marioperezmartinez/)
+
+*Turning agricultural challenges into technology-driven solutions.*
